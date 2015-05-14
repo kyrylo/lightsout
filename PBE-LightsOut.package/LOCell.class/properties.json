@@ -1,0 +1,14 @@
+{
+	"category" : "PBE-LightsOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "KyryloSilin 5/14/2015 00:48",
+	"instvars" : [
+		"mouseAction" ],
+	"name" : "LOCell",
+	"pools" : [
+		 ],
+	"super" : "SimpleSwitchMorph",
+	"type" : "normal" }

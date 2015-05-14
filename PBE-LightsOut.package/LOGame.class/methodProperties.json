@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cellsPerSide" : "KyryloSilin 5/14/2015 05:25",
+		"initialize" : "KyryloSilin 5/14/2015 04:40",
+		"newCellAt:at:" : "KyryloSilin 5/14/2015 14:15",
+		"toggleNeighboursOfCellAt:at:" : "KyryloSilin 5/14/2015 14:10" } }

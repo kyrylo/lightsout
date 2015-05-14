@@ -1,0 +1,15 @@
+{
+	"category" : "PBE-LightsOut",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cells",
+		"mouseAction" ],
+	"name" : "LOGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
